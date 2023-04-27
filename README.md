@@ -1,4 +1,4 @@
-# MIDS-Assiignments
+# MIDS-Assignments
 MIDS Assignments
 
 
